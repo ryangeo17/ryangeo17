@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👨‍💻 About Me
+## About Me
 
 💡 Computer Science student at the University of Maryland (Class of 2028).  
 🚀 Focused on robotics software (ROS2), backend systems, and data-driven applications.  
