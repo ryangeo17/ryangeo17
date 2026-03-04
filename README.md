@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 📊 Researching AI ethics, bias, and transparency using statistical analysis in R.  
 🌱 Interested in scalable systems, infrastructure, and real-world engineering problems.
 
-📫 Reach me at: rbgeorge117@gmail.com  
-
----
-
-## 🛠 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
