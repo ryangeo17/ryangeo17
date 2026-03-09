@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 ![ROS2](https://img.shields.io/badge/ROS2-000?style=for-the-badge&logo=ros)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
