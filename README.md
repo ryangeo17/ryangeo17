@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-💡 Computer Science student at the University of Maryland (Class of 2028).  
-🚀 Focused on robotics software (ROS2), backend systems, and data-driven applications.  
-🔧 Currently building rover software for the University Rover Challenge.  
-📊 Researching AI ethics, bias, and transparency using statistical analysis in R.  
-🌱 Interested in scalable systems, infrastructure, and real-world engineering problems.
+-Computer Science student at the University of Maryland (Class of 2028).  
+-Focused on robotics software (ROS2), backend systems, and data-driven applications.  
+-Currently building rover software for the University Rover Challenge.  
+-Researching AI ethics, bias, and transparency using statistical analysis in R.  
+-Interested in scalable systems, infrastructure, and real-world engineering problems.
 
 
 ### Languages
